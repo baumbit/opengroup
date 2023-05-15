@@ -2,6 +2,8 @@
 
 * This is a draft *
 
+Note: To understand OpenGroup you probably first have to fully grok [PeerCuration](https://github.com/baumbit/peercuration).
+
 ## Why?
 In a PeerCuration system, there is no central administrator/moderator. Because of its open and fluid nature, there are not really any formal groups (such as sub Reddits or Facebook groups) either. Yet, one could argue that there is value in grouping conversations, so as to strengthen the bonds within as an example a community.
 
