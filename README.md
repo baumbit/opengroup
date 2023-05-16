@@ -4,6 +4,9 @@
 
 Note: To understand OpenGroup you probably first have to fully grok [PeerCuration](https://github.com/baumbit/peercuration).
 
+# TL:DR
+An OpenGroup is a list of identifiers (public keys) of entities (people, bots), which is provided by the Grouper (the entity creating the list). Such a list can be cloned and mutated by anyone, thus creating a new OpenGroup. This simple mechanism makes it possible for a group of entities, to filter and sort a stream of data, which in combination with [PeerCuration](https://github.com/baumbit/peercuration) makes it possible for a group of people to self organize. 
+
 ## Why?
 In a PeerCuration system, there is no central administrator/moderator. Because of its open and fluid nature, there are not really any formal groups (such as sub Reddits or Facebook groups) either. Yet, one could argue that there is value in grouping conversations, so as to strengthen the bonds within as an example a community.
 
